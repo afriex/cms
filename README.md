@@ -1,4 +1,4 @@
-cms
+Dr. CMS
 ===
 
-Build CMS Using Phpactiverecord
+Build CMS Using PhpActiveRecord
